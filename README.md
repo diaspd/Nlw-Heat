@@ -35,7 +35,7 @@ $ npm i
 # Start the project
 $ npm start
 ```
-Use the other project on to run the server and 
+Use the other project on https://github.com/rocketseat-education/nlw-heat-node to run the server and <br> </br>
 The app will be available for access on your browser at http://localhost:3000
 
 
