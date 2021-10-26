@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  NLW-Heat
 </h1>
 
 <br></br>
@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="nlw.png" title="" src="nlw" width="100%" />
 </h1>
 
 
@@ -35,7 +35,9 @@ $ npm i
 # Start the project
 $ npm start
 ```
+Use the other project on to run the server and 
 The app will be available for access on your browser at http://localhost:3000
+
 
 <br></br>
 
@@ -43,23 +45,14 @@ The app will be available for access on your browser at http://localhost:3000
 
 This project was developed with the following technologies:
 
-- 
-- 
-- 
--
--
--
+- React
 
 
 ## 📄 Project
-💰
+💰 A project made on nlw heat
 
 <br></br>
 
-## 🔖 Layout
-📄
-
-<br></br>
 
 Feito com ♥ by Pedro Dias (😎)<br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
