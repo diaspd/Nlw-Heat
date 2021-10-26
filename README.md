@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="nlw.png" title="" src="nlw" width="100%" />
+  <img alt="nlw" title="" src="nlw.png" width="100%" />
 </h1>
 
 
