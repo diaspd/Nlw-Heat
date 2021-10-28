@@ -23,7 +23,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/diaspd/Nlw-Heat.git
 $ cd 
 ```
 
@@ -49,7 +49,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 A project made on nlw heat
+💰 A project made on nlw heat 
 
 <br></br>
 
