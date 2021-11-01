@@ -49,7 +49,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 A project made on nlw heat 
+💰 A project made for people send messages on this page.
 
 <br></br>
 
