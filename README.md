@@ -54,11 +54,11 @@ This project was developed with the following technologies:
 
 
 Feito com ♥ by Pedro Dias (😎)<br></br>
-https://www.instagram.com/dias_pdr/ <br></br>
-https://www.facebook.com/PedroDias24/<br></br>
-https://twitter.com/diaspdr_1<br></br>
-https://www.twitch.tv/diasgm_pdr<br></br>
+https://www.instagram.com/dias_pdr/
+https://www.facebook.com/PedroDias24/
+https://twitter.com/diaspdr_1
+https://www.twitch.tv/diasgm_pdr
 
 Se puder dar uma estrelinha, eu agradeço 🤩
-<br></br>
+
 If you can give a little star, I appreciate it 🤩
